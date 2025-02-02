@@ -1,0 +1,15 @@
+{
+  "name": "web-master",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "vite": "^6.0.11"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
